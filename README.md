@@ -16,6 +16,7 @@ These variables are used to cluster customers into different groups.
 Demonstrates how to preprocess the data, including handling missing values, normalizing the data, and selecting the features to be used in the clustering algorithm.
 
 ### K-Means Clustering: 
+We have used WCSS -> Within Clusters Sum of Squares
 The K-Means algorithm is used to show how to choose the number of clusters (k), and the importance of centroids. 
 The "elbow method" is used to determine the optimal number of clusters.
 
